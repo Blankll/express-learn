@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node -r esm index.js",
-    "test": "echo \"all test passed\""
+    "test": "echo \"all test passed\"",
+    "build": "echo \"all build\""
   },
   "author": "",
   "license": "ISC",
